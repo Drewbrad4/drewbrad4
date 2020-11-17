@@ -5,7 +5,7 @@
 
 - I’m currently learning **React Native**
 
-- Check out my Portfolio [Here!](drewbrad4.github.io)
+- Check out my Portfolio [Here!](https://drewbrad4.github.io)
 
 - Email: **drewbrad4@gmail.com**
 
