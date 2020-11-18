@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Drew!</h1>
 <h3 align="center">A full stack engineer passionate about creative problem solving and intuitive and accessible web applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drewbrad4" alt="drewbrad4" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drewbrad4&theme=monokai" alt="drewbrad4" /></a> </p>
 
 - I’m currently learning **React Native**
 
