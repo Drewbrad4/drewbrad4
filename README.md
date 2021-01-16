@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drewbrad4" alt="drewbrad4" /></a> </p>
 
-- I'm interning with [Vizer](www.vizerapp.com)
+- I'm interning with [Vizer](https://www.vizerapp.com)
 
 - I’m currently learning **React Native**
 
-- Check out my Portfolio! [drewbrad4.github.io](drewbrad4.github.io)
+- Check out my Portfolio! [drewbrad4.github.io](https://drewbrad4.github.io)
 
 - Email: **drewbrad4@gmail.com**
 
