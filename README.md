@@ -5,7 +5,7 @@
 
 - I'm interning with [Vizer](https://www.vizerapp.com)
 
-- I’m currently learning **React Native**
+- I’m currently learning **Go**
 
 - Check out my Portfolio! [drewbrad4.github.io](https://drewbrad4.github.io)
 
