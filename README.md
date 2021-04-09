@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drewbrad4" alt="drewbrad4" /></a> </p>
 
-- I'm interning with [Vizer](https://www.vizerapp.com)
+- I'm currently a Junior Dev at [Vizer](https://www.vizerapp.com)
 
-- I’m currently learning **Go**
+- I’m currently learning **Rust**
 
 - Check out my Portfolio! [drewbrad4.github.io](https://drewbrad4.github.io)
 
