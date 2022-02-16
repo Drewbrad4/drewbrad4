@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drewbrad4" alt="drewbrad4" /></a> </p>
 
-- I'm currently a Junior Dev at [Vizer](https://www.vizerapp.com)
+- I'm currently a Software Engineer at [Vizer](https://www.vizerapp.com)
 
 - I’m currently learning **Rust**
 
